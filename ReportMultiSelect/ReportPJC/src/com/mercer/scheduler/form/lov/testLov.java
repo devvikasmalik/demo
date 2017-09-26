@@ -64,7 +64,7 @@ public class testLov {
         call=   mcbl.setProperty(mcbl.ADD_DESC, "CO01 - Mercer (Colombia) Ltda.");
         call=  mcbl.setProperty(mcbl.ADD_DESC, "CO02 - Mercer Agencia de Seguros Ltda");
         call=  mcbl.setProperty(mcbl.ADD_DESC, "CZ01 - Mercer (Czech) a.s.");
-        call=   mcbl.setProperty(mcbl.ADD_DESC, "DE01 - Mercer Deutschland GmbH");
+        //call=   mcbl.setProperty(mcbl.ADD_DESC, "DE01 - Mercer Deutschland GmbH");
        // call=   mcbl.setProperty(mcbl.ADD_DESC, "DS01 - Mercer Deutschland GmbH");
         call=  mcbl.setProperty(mcbl.SHOW_MCHECKBOXLIST, true);
         call=  mcbl.setProperty(mcbl.CLEAR, "ALL");
