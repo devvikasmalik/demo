@@ -1,4 +1,4 @@
-package com.mercer.scheduler.form.lov;
+package com.scheduler.form.lov;
 import oracle.forms.properties.ID;
 public class testLov {
     public static void main(String[] args) {
@@ -16,7 +16,6 @@ public class testLov {
       call=  mcbl.setProperty(mcbl.ADD_DESC, "AA02 - TEST INACTIVE");
       call=  mcbl.setProperty(mcbl.ADD_DESC, "AE01 - TEST Limited");
       call=  mcbl.setProperty(mcbl.ADD_DESC, "AE02 -  Limited");
-   
         call=  mcbl.setProperty(mcbl.SHOW_MCHECKBOXLIST, true);
         call=  mcbl.setProperty(mcbl.CLEAR, "ALL");
         

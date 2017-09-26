@@ -1,4 +1,4 @@
-package com.mercer.scheduler.form.lov;
+package com.scheduler.form.lov;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
