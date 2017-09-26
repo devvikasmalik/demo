@@ -13,7 +13,7 @@ public class testLov {
       call=  mcbl.setProperty(mcbl.ADD_ID, "AU01");
       call=  mcbl.setProperty(mcbl.ADD_ID, "CA01");
      call=   mcbl.setProperty(mcbl.ADD_ID, "US01");
-        call=  mcbl.setProperty(mcbl.ADD_ID, "AU01");
+        //call=  mcbl.setProperty(mcbl.ADD_ID, "AU01");
         call=  mcbl.setProperty(mcbl.ADD_ID, "CA01");
         call=   mcbl.setProperty(mcbl.ADD_ID, "US01");
         call=  mcbl.setProperty(mcbl.ADD_ID, "AU01");
